@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Caio
 
-<!--
-**CaioZCunha/CaioZCunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor full stack em formação, atualmente estagiando em uma empresa
+de Pesquisa e Desenvolvimento, onde participo de projetos de inovação tecnológica
+com foco em soluções práticas e aumento de rentabilidade para clientes.
 
-Here are some ideas to get you started:
+Atualmente atuo no desenvolvimento de sistemas que integram software e hardware,
+incluindo robótica e automação, utilizando Flutter, Python e sistemas embarcados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias
+- Flutter / Dart
+- Python
+- Java
+- SQL Server
+- JavaScript / TypeScript
+- Arduino e sensores
+- HTML / CSS 
+
+### 🎓 Formação
+- Bacharelado em Ciência da Computação (em andamento)
+- Técnico em Informática (concluído)
+
+### 📫 Contato
+- LinkedIn: linkedin.com/in/caio-zanfolim-cunha
+- Email: caiozcunha06@gmail.com
